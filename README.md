@@ -1,6 +1,8 @@
 # Notes-IISER-TVM
 
-A compilation of the digitals notes I have been taking for my courses at IISER TVM. 
+A compilation of the digitals notes I have been taking for my courses at IISER TVM. Some copyrighted material may be present in my notes. Images belong to their respective creators. References may be absent in some places. Typos are present in some places. Notes were made in OneNote for Semester V,VI,VII and in Obsidian in VIII
+
+If you found these notes helpful, or would like to contact me for other issues, please email me ira [dot] zibbu [at] gmail [dot] com
 
 ## Update (as of July 2023)
 I no longer maintain my notes here. You may find them on the following Google Drive folders
