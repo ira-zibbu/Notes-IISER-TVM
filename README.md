@@ -24,7 +24,11 @@ I no longer maintain my notes here. You may find them on the following Google Dr
 [Link to Drive](https://drive.google.com/drive/u/2/folders/14C9xRkOYoDbrn-SCejyzQK4X5PM6WugR)
 
 ### Semester VII
-- Unavailable because my hard disk failed and I lost 90% of my notes
+
+Unavailable for most courses because my hard disk failed that semester (fun times!). Link to public OneNote notebooks are below. They can be viewed in the browser, downloaded (if you wish to edit them) or exported as a PDF.
+- [BIO411](https://1drv.ms/o/s!Ai6SwA_IuYQSjBqIGSVNMk9lV61K?e=XXnkNv)
+- [BIO413](https://1drv.ms/o/s!Ai6SwA_IuYQSjCuxkspEHaO_FS2T?e=K1KCjb)
+
 
 ### Semester VIII
 - BIO4201
