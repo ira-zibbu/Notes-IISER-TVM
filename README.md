@@ -37,6 +37,11 @@ Unavailable for most courses because my hard disk failed that semester (fun time
 
 [Link to drive](https://drive.google.com/drive/u/2/folders/1hq-8ZGvv7Z8pGpU_rc5Z4yRnu6bd66tx)
 
+### And now, for some rave reviews:
+> "Ira's notes have been a lifesaver for me. Her concise way of writing proves that she has done her précis exercises conscientiously during her ICSE English curriculum."
+> "Ira has a great collect a great of notes on github and that collection has saved me multiple times especially in major years. Even if a prof is a bad teacher or doesn't write much in their slides, i know i can go back and trust Ira's notes and study. The best part is she also has PYQs and research papers with highlights and answers and what not. Plus she made them on one note, so I was able to add my own extra notes as well. Ira's github collection is a saviour fr! Thank a lot Ira <3"
+> "helped me pass bro"
+
 
 
 
